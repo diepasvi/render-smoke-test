@@ -1,0 +1,1 @@
+# render-smoke-test
